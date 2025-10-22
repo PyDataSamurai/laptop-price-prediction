@@ -1,15 +1,37 @@
 # Laptop Price Prediction
 
-Predict laptop prices using Python & Machine Learning.
-This project predicts laptop prices based on hardware features like RAM, CPU speed, GPU score, storage, and display size using Multiple Linear Regression.
+This project predicts laptop prices based on hardware specifications using Multiple Linear Regression.
+
+**GitHub Username:** PyDataSamurai
 
 ## Features
-- Data preprocessing
-- Multiple Linear Regression model
-- Performance metrics: R², MAE
-- Visualization of predictions
 
-## Usage
-1. Load data from `data/laptops.csv`
-2. Run notebook `notebooks/regression_model.ipynb` or script `src/model.py`
-3. Check results and visualizations
+* RAM (GB)
+* CPU Speed (GHz)
+* GPU Score
+* Storage (GB)
+* Display Inches
+
+## How to Run
+
+1. Clone the repository
+2. Install requirements:
+
+3\. Run the notebook or `model.py` script
+
+4\. Check the model performance and scatter plot
+
+
+
+\## Model Evaluation
+
+
+
+\- R² Score
+
+\- Mean Absolute Error
+
+\- Regression Coefficients
+
+
+
